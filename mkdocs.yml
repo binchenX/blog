@@ -1,0 +1,22 @@
+site_name: "blog"
+
+nav:
+  - opiumwar: "opiumwar.md"
+
+theme:
+  name: material
+  features:
+    - tabs
+    - content.code.copy
+    - announce.dismiss
+    - header.autohide
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: switch to light mode
+
