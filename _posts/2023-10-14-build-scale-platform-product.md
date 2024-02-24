@@ -12,7 +12,7 @@ I aim to summarize the lessons I've learned and the mental model I've employed. 
 
 So, here you go:
 
-![image](https://github.com/binchenX/todo/assets/462206/49fb677e-6b14-4aa8-90c1-dbac16bf4f7f)
+![product management](/assets/platform-product.png)
 
 I won't delve into details for all the aspects mentioned in the diagram, but I'll touch on a few topics in this post that I hope will be useful.
 
