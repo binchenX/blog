@@ -12,7 +12,7 @@ I aim to summarize the lessons I've learned and the mental model I've employed. 
 
 So, here you go:
 
-![product management](/assets/platform-product.png)
+![product management]({{ site.baseurl }}/assets/platform-product.png)
 
 I won't delve into details for all the aspects mentioned in the diagram, but I'll touch on a few topics in this post that I hope will be useful.
 
