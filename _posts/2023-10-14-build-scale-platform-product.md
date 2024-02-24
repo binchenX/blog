@@ -98,16 +98,4 @@ When considering customers, an internal platform caters to various personas, but
 - **Delivery Metrics** concern how well the team is delivering value. [Velocity](https://www.scruminc.com/velocity/) and typical Scrum stuff. However, it is never easy to get accurate and useful data. Requires lots of discipline and effort. An automatic delivery metrics instrumentation and aggregation will be a game-changer for organization delivery and process optimization.
 - **Customer Metrics** concern how well the team is serving the customers. Examples are SLI/SLA for customer PR approval, ticket triage time, new feature release leading time, new environment setup leading time, etc. Last but not least, [Net Promoter Score](https://en.wikipedia.org/wiki/Net_promoter_score)
 
-## Build a car, not a powerful engine or a fancy infotainment system
-
-Most of the aspects covered above pertain to "how." How to conduct product discovery and create a roadmap, how to allocate time and resources to balance feature delivery and platform reliability. One particular challenge in building an internal platform product is determining who is responsible for what, especially in an Enterprise environment.
-
-This specific challenge arises due to the [vast landscape of technologies][cncf] that will be used in building the platform, including CI/CD, Cloud, Kubernetes, Observability/SRE, and Security, to name a few. In an enterprise, it is most likely that the aforementioned functions are owned by different business units.  [Conway's law][conway] tells us that organizational structure imposes constraints on system architecture, and your product reflects your org chart. However,  [inverse conway maneuver](https://www.thoughtworks.com/en-au/radar/techniques/inverse-conway-maneuver) requires strong leadership and political will, which is most likely outside of your sphere of influence, unless you are a GM or CTO.
-
-## Summary (by chatgpt)
-
-Hope you have found something that is useful in this post.
-
 [team topologies]: https://www.amazon.com.au/Team-Topologies-Organizing-Business-Technology/dp/1942788819
-[cncf]: https://landscape.cncf.io/
-[conway]: https://en.wikipedia.org/wiki/Conway%27s_law
