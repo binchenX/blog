@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Hello.
+Hi there 👋, Have a G'day!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thinking Clearly"
-categories: thinking
+categories: Thinking
 ---
 
 ["How to Solve It"][book] is a classic book written by George Pólya, a mathematician, providing a systematic approach to problem-solving.

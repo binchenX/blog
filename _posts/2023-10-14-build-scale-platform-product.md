@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Build and Scale Platform Product"
-categories: product
+categories: Product
 ---
 
 # Build and Scale Platform Product
