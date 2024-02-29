@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Thinking Clearly"
+title:  "Think Clearly"
 categories: Thinking
 ---
 
