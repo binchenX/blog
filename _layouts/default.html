@@ -16,7 +16,9 @@
     {%- include footer.html -%}
 
     <!-- Add custom JavaScript for anchor links -->
+  {% if page.layout == 'post' %}
     <script src="{{ '/assets/js/custom.js' | relative_url }}"></script>
+  {% endif %}
   </body>
 
 </html>
