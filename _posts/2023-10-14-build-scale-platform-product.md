@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Build and Scale Platform Product"
-categories: Product
+categories: Managment
 ---
 
 Over the past few years, I have built and scaled several internal Platform Products within a large financial organization.
