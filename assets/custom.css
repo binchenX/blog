@@ -3,6 +3,7 @@
   display: none;
   padding-left: 5px;
 }
+
 h1:hover .header-link,
 h2:hover .header-link,
 h3:hover .header-link,
@@ -11,3 +12,75 @@ h5:hover .header-link,
 h6:hover .header-link {
   display: inline-block;
 }
+
+
+/*
+dark mode
+--background-color: rgba(32, 33, 36, 1.00);
+    --font-family: Andika;
+    --font-size: 1.75em;
+    --foreground-color: rgba(227, 227, 227, 1.00);
+    --letter-spacing: 0.05000000074505806em;
+    --line-height: 2;
+    --link-color: var(--google-blue-300);
+    --selection-color: var(--google-blue-200);
+    --sp-empty-state-heading-color: rgba(227, 227, 227, 1.00);
+    --sp-empty-state-body-color: var(--google-grey-500);
+    --visited-link-color: var(--google-purple-200);
+*/
+
+
+.dark-mode {
+  background-color: rgba(32, 33, 36, 1.00);
+  font-family: sans-serif, serif;
+  color: rgba(227, 227, 227, 1.00);
+  letter-spacing: 0.05000000074505806em;
+  line-height: 1.5;
+  --link-color: var(--google-blue-300);
+  --selection-color: var(--google-blue-200);
+  --sp-empty-state-heading-color: rgba(227, 227, 227, 1.00);
+  --sp-empty-state-body-color: var(--google-grey-500);
+  --visited-link-color: var(--google-purple-200);
+}
+
+/* 
+copied from safari reader mode blue style
+1. I want blue mode
+2. I want the gap between lines to be 1.5 or bigger
+3. I want the gap between workds to be wider
+4. I want the font to be Serif or Sans-Serif
+*/
+
+.blue-mode {
+  background-color: rgba(210, 227, 252, 1.00);
+  font-family: sans-serif, serif, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue";
+  font-size: 18px;
+  font-weight: lighter;
+  color: rgba(31, 31, 31, 1.00);
+  letter-spacing: 0.05000000074505806em;
+  line-height: 2;
+  --link-color: var(--google-blue-900);
+  --selection-color: var(--google-yellow-100);
+  --sp-empty-state-heading-color: rgba(31, 31, 31, 1.00);
+  --sp-empty-state-body-color: var(--google-grey-700);
+  --visited-link-color: var(--google-purple-900);
+}
+
+/*
+.site_title
+.site_nav
+
+.site-title {
+    font-size: 26px;
+    font-weight: 300;
+    line-height: 54px;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    float: left;
+}
+
+.site-nav .page-link {
+    color: #111;
+    line-height: 1.5;
+}
+*/
