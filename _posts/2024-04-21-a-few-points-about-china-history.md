@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "中国历史有趣的几点"
+title:  "中国历史二三事"
 categories: History
 lang: zh
 ---

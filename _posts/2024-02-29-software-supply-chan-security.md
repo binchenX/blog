@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Primer on Software Supply Chain Security"
+title:  "Software Supply Chain Security"
 categories: Tech
 ---
 

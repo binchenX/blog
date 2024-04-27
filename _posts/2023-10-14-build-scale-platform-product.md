@@ -89,7 +89,7 @@ When considering customers, an internal platform caters to various personas, but
 - Developer Community: Utilize support channels and chat, conduct workshops for product updates and feature demonstrations, and foster an internal community. Over time, this approach promotes fellow developers helping each other, reducing reliance on the platform team.
 - Developer documentation plays a crucial role in promoting self-service and minimizing the need for direct interactions between customers and the Platform Team.
 
-## Metrics: You can improve what you can't measure
+## Metrics: You can't improve what you can't measure
 
 - **Service Metrics** concern how well the service is running. We can use [SLI/SLO/SLA](https://cloud.google.com/blog/products/devops-sre/sre-fundamentals-slis-slas-and-slos) as popularized by the SRE practice.
 - **Operation Metrics** concern how well the team is operating the platform. We can use [DORA metrics](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance) For example, your deployment failure rate is an indication of the platform reliability.  
