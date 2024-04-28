@@ -10,13 +10,13 @@ categories: Tech
 
 > A software attestation is an authenticated statement (metadata) about a software artifact or collection of software artifacts. Software attestations are a generalization of raw artifact/code signing.
 
-- Proverence 
+- provenance
 
-> It’s the verifiable information about software artifacts describing where, when and how something was produced. Proverence is a one specificial case of Attenstation. 
+> It’s the verifiable information about software artifacts describing where, when and how something was produced. provenance is a one specificial case of Attenstation.
 
 - SBOM
 
-> SBOM is a detailed list of components and dependencies that make up a software application. It is a special case of Proverence.
+> SBOM is a detailed list of components and dependencies that make up a software application. It is a special case of provenance.
 
 ## From SDLC, to CI/CD , to Software Supply Chain Security
 
@@ -79,7 +79,7 @@ SLSA defines the [attestation model](https://slsa.dev/attestation-model) or the 
 I will conclude the post with a diagram that describes the players mentioned above and their relationships.
 
 ![slsa]({{ site.baseurl }}/assets/slsa.png)
-  
+
 [Sigstore]: https://dl.acm.org/doi/pdf/10.1145/3548606.3560596
 [TUF]: https://ssl.engineering.nyu.edu/papers/samuel_tuf_ccs_2010.pdf
 [in-toto]: https://www.usenix.org/system/files/sec19-torres-arias.pdf
