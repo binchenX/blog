@@ -24,6 +24,11 @@ body {
   line-height: 2;
 }
 
+body .footnotes {
+  font-size: 12px;
+  line-height: 1.5;
+}
+
 /*
 dark mode
 --background-color: rgba(32, 33, 36, 1.00);

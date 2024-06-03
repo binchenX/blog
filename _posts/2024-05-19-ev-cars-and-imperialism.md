@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Electric Vehicle and Imperialism"
+title:  "Imperialism"
 categories: History
 ---
 
