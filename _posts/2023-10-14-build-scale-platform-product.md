@@ -4,6 +4,8 @@ title:  "Build and Scale Platform Product"
 categories: Managment
 ---
 
+> [See part II of this series - Enterprise Platform Strategy](https://www.devicu.com/blog/enterprise-platform-strategy).
+
 Over the past few years, I have built and scaled several internal Platform Products within a large financial organization.
 
 I aim to summarize the lessons I've learned and the mental model I've employed. This model is provisional and derived from my limited knowledge and experience. I will also recommend a few great books to help you develop your own model.
