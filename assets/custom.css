@@ -99,3 +99,19 @@ copied from safari reader mode blue style
     line-height: 1.5;
 }
 */
+
+.trigger .buy-me-coffee-link {
+  color: #ffffff;
+  /* White text color for better contrast */
+  background-color: rgba(0, 145, 255, 0.529);
+  /* Existing semi-transparent blue background */
+  /* Sets the background color to blue */
+  padding: 5px 10px;
+  /* Keeps the padding */
+  border-radius: 5px;
+  /* Keeps the rounded corners */
+  text-decoration: none;
+  /* Keeps the text decoration as none */
+  font-size: 0.8em;
+  /* Makes the font smaller */
+}
