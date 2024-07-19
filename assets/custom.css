@@ -19,7 +19,7 @@ use following font setting for all mode
 */
 
 body {
-  font-family: sans-serif, serif;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-seri, serif;
   letter-spacing: 0.05000000074505806em;
   line-height: 2;
 }
