@@ -4,7 +4,7 @@ title:  "Build and Scale Platform Product"
 categories: Managment
 ---
 
-> [See part II of this series - Enterprise Platform Strategy](https://www.devicu.com/blog/enterprise-platform-strategy).
+> [See part II of this series - Enterprise Platform Strategy](https://www.skyx.au/blog/enterprise-platform-strategy).
 
 Over the past few years, I have built and scaled several internal Platform Products within a large financial organization.
 

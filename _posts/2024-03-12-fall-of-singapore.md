@@ -4,7 +4,7 @@ title:  "The Fall of Singapore"
 categories: History
 ---
 
-1819 is considered to be the start of modern Singapore. It is the year Britain signed the Treaty of Singapore, which allowed a company to open a trading post in Singapore. The company was the [British East India Company](https://en.wikipedia.org/wiki/East_India_Company), infamous for importing Opium into China and triggering the [Opium Wars](https://www.devicu.com/blog/opium-war) in the 19th century. In 1826, Singapore became part of the British Straits Settlements and later became a [Crown colony](https://en.wikipedia.org/wiki/Crown_colony) in 1867.
+1819 is considered to be the start of modern Singapore. It is the year Britain signed the Treaty of Singapore, which allowed a company to open a trading post in Singapore. The company was the [British East India Company](https://en.wikipedia.org/wiki/East_India_Company), infamous for importing Opium into China and triggering the [Opium Wars](https://www.skyx.au/blog/opium-war) in the 19th century. In 1826, Singapore became part of the British Straits Settlements and later became a [Crown colony](https://en.wikipedia.org/wiki/Crown_colony) in 1867.
 
 
 Around 100 years later, the British built the Singapore Naval Base as part of their defensive strategy in the Far East. It was known as the [Singapore Strategy](https://en.wikipedia.org/wiki/Singapore_strategy). The base was completed in 1938 at a cost of £60 million – equivalent to 6 billion in 2024.

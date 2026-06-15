@@ -4,7 +4,7 @@ title:  "Enterprise Platform Strategy"
 categories: Managment
 ---
 
-> This is a sequel to [Build and Scale Platform Product](https://www.devicu.com/blog/build-scale-platform-product).
+> This is a sequel to [Build and Scale Platform Product](https://www.skyx.au/blog/build-scale-platform-product).
 
 You work in a large enterprise[^1] and you are tasked with coming up with the platform strategy.
  
@@ -31,7 +31,7 @@ Actually a single platform may not cut. You will need multiple platforms. There 
 
 **Standardization** involves establishing standards on various aspects of the software development lifecycle, including programming languages, frameworks, tools, and processes across the organization. The goal is to reduce technology fragmentation and promote the easy adoption of best practices. For example, Google has standardized Java, C++, Golang, and Python as approved languages for internal use.
 
-**Centralization** involves a designated team building and running a platform. For instance, a centralized logging platform requires you to send your logs exclusively to that platform. Another example is a centralized cyber and security department. While centralization avoids duplicated effort in the enterprise, It needs to solve the depedency issue in the initial stage and the [scalability challenge](https://www.devicu.com/blog/build-scale-platform-product#scalability-from-1-to-100) in the late stage.
+**Centralization** involves a designated team building and running a platform. For instance, a centralized logging platform requires you to send your logs exclusively to that platform. Another example is a centralized cyber and security department. While centralization avoids duplicated effort in the enterprise, It needs to solve the depedency issue in the initial stage and the [scalability challenge](https://www.skyx.au/blog/build-scale-platform-product#scalability-from-1-to-100) in the late stage.
 
 While centralization can enhance standardization, standardization does not necessarily require centralization. If you encounter resistance to centralization efforts, consider standardization instead. 
 
